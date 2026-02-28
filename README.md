@@ -455,8 +455,7 @@ ENDPOINT=https://models.inference.ai.azure.com # Fase 2-4
 
 # Nombres alternativos usados en Fase 5
 GITHUB_MODEL=gpt-4o-mini
-GITHUB_ENDPOINT=https://models.inference.ai.azure.com
-
+GITHUB_ENDPOINT=[https://models.inference.ai.azure.com](https://models.github.ai/inference)
 # ── arXiv (Fases 4-5) ─────────────────────────────────────────────────────────
 ARXIV_ENDPOINT=https://export.arxiv.org/api/query
 
